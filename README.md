@@ -1,8 +1,8 @@
 # Applying Burst-Tries for Error-Tolerant Prefix Search
 
-Authors: Berg Ferreira · Edleno Silva de Moura · Altigran da Silva
+**Authors:** Berg Ferreira · Edleno Silva de Moura · Altigran da Silva
 
-Journal: Information Retrieval Journal (IRJ)
+**Journal:** Information Retrieval Journal (IRJ)
 
 **Abstract:** In this work we address the problem of performing an error-tolerant prefix
 search on a set of string keys. While the ideas presented here could be adopted in other
@@ -21,7 +21,10 @@ The possibility of balancing memory usage and time performance
 constitutes an advantage of the burst trie when compared to the full trie when adopted
 as an index for the task of performing error-tolerant prefix search.
 
-The full paper can be found at: 
+**DOI:** 10.1007/s10791-022-09416-9
+
+**Note:** For any reference to the repository, please cite this article.
+
 
 ## Requirements
 
